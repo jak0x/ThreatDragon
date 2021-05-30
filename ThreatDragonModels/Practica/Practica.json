@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Practica",
+    "owner": "Practica",
+    "description": "Esto es una practica"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Practica",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Practica"
+  }
+}
